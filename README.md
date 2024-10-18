@@ -1,4 +1,4 @@
-```markdown
+
 # Data Pipeline Project: Sales Data Processing with AWS
 
 ## Description
@@ -113,19 +113,3 @@ Connect to your Redshift cluster and run the provided SQL scripts to analyze the
 - Upload new sales data files to the S3 bucket to automatically trigger the data processing.
 - View and analyze the cleaned data in Redshift using SQL.
 - Modify the Glue job or Lambda function as needed to adapt to different data formats or transformation requirements.
-
-## Contributing
-
-Feel free to fork this project and submit pull requests. Any improvements or bug fixes are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### **Comment utiliser ce README :**
-- Il te guide étape par étape pour le développement de ton projet, avec une approche modulaire pour chaque composant.
-- Il t’aide à garder une trace de ta progression grâce à la *To-Do List*.
-- Il te permet d’expliquer ton projet facilement à quelqu'un d'autre, comme lors de ton entretien.
-
-En suivant ce plan, tu seras en mesure de construire un projet de pipeline de données complet, tout en développant les compétences techniques attendues pour le stage. Bonne chance et bon travail sur ce projet !
